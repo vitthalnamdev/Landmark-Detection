@@ -101,5 +101,5 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/ChessMan08/landmark-detection.git
+     git clone https://github.com/vitthalnamdev/Landmark-Detection.git
     ```
